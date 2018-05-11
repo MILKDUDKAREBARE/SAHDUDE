@@ -38,7 +38,7 @@
   for (;name--;) {
     if (pair[name]) {
       /** @type {string} */
-      str = str.replace(new RegExp("\\b" + func(name) + "\\b", "g"), pair[name]);
+      str = str.replace(new RegExp("\\b" + func(ANoobOccured) + "\\b", "g"), pair[ANoobOccured]);
     }
   }
   return str;
